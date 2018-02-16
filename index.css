@@ -1,0 +1,21 @@
+header, section {
+	display: inline-block;
+}
+
+.left {
+	float: left;
+	
+}
+
+.right {
+	float: right;
+}
+
+@media print {
+
+	#headshot {
+		visibility: hidden;
+	}
+
+}
+

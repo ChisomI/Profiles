@@ -1,0 +1,15 @@
+.navbar {
+  /*background-color: #01181b; */
+}
+
+.navbar a {
+  list-style: none;
+  text-decoration: none;
+  
+}
+
+.navbar li {
+  display: inline;
+  padding: 0px 10px 10px 0px;
+}
+
